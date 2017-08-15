@@ -5,7 +5,7 @@
 <title>Project Management</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="css/home.css">
+<link rel="stylesheet" href="../css/home.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
@@ -30,7 +30,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <i class="fa fa-remove"></i>
   </a>
   <h4 class="w3-bar-item"><b>Menu</b></h4>
-  <a class="w3-bar-item w3-button w3-hover-black" href="#">프로젝트</a>
+  <a class="w3-bar-item w3-button w3-hover-black" href="analysis">프로젝트</a>
   <a class="w3-bar-item w3-button w3-hover-black" href="#">멤버</a>
 </nav>
 
